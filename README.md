@@ -1,20 +1,23 @@
-<img align="center" height="150" src="/midias/midia.gif"/>
+<div align="center">
+  <img align="center" height="150" src="/midias/midia.gif">
+</div>
+
 # 👋 Hi, I'm Victor!
 
-🧑‍💻 Computer enginner in fortamtion
-👩🏻‍🎓 Studing at CEFET-MG - Campus Leopoldina
-🐍 Python enthusiaste
-🐘 PHP junior dev
-💭 Currently learning Golang
+🧑‍💻 Computer enginner in fortamtion</br>
+👩🏻‍🎓 Studing at CEFET-MG - Campus Leopoldina</br>
+🐍 Python enthusiaste</br>
+🐘 PHP junior dev</br>
+💭 Currently learning Golang</br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorVilelaSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorVilelaSilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorVilelaSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorVilelaSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Lenguages and tools</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
